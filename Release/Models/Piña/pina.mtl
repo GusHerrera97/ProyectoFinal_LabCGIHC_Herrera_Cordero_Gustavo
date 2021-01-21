@@ -1,0 +1,1987 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TEXT_MDF.jpg
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3a71d12d2e53bcef0c6aa1161e65ca3b-patron-de-fondo-de-pina-minimalista.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vector-submarine-metal-side-porthole-for-underwater.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pdppAx4.jpg
+Ni 1.00
+newmtl pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd door.jpg
+Ni 1.00
+newmtl pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl pasted__lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verde.jpg
+Ni 1.00
+newmtl pasted__lambert2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd free-vector-metal-textura.jpg
+Ni 1.00
+newmtl pasted__lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 71Wq+DPVvcL._AC_SX425_.jpg
+Ni 1.00
+newmtl pasted__lambert2SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd istockphoto-1177589380-612x612.jpg
+Ni 1.00
+newmtl pasted__lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pdppAx4.jpg
+Ni 1.00
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puntos-redondos-del-metal-cromo-589863.jpg
+Ni 1.00
+newmtl pasted__lambert3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal_Diffuese.jpg
+Ni 1.00
+newmtl pasted__lambert3SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd superficie-metal-rayado-estilo-grunge-oscuro_1048-12951.jpg
+Ni 1.00
+newmtl pasted__lambert3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 81d95cccf00e3bac1d7263cbac06dcd4.jpg
+Ni 1.00
+newmtl pasted__lambert3SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 59f927db42ff6ecbbe070553269fc99a.jpg
+Ni 1.00
+newmtl pasted__lambert3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 682D358C3.jpg
+Ni 1.00
+newmtl pasted__lambert3SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 08f0c5f065ce9a2a570ac12e20cf258e.jpg
+Ni 1.00
+newmtl pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd istockphoto-1055591298-170667a.jpg
+Ni 1.00
+newmtl pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd superficie-metal-rayado-estilo-grunge-oscuro_1048-12951.jpg
+Ni 1.00
+newmtl pasted__lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cuerda.jpg
+Ni 1.00
+newmtl pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 465355beec67ee00c81e84829861608b.png
+Ni 1.00
+newmtl pasted__lambert4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 35989.jpg
+Ni 1.00
+newmtl pasted__lambert4SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd espacio-textura-roca-piedra-redonda-pared-grandes-piedras-calzada_251358-270.jpg
+Ni 1.00
+newmtl pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd superficie-metal-rayado-estilo-grunge-oscuro_1048-12951.jpg
+Ni 1.00
+newmtl pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 596ac440207b40669fd1dc3bf8f483b6.jpg
+Ni 1.00
+newmtl pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 50695526-textura-cuadrada-de-la-cerca-de-bambú.jpg
+Ni 1.00
+newmtl pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__lambert6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verde.jpg
+Ni 1.00
+newmtl pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 08f0c5f065ce9a2a570ac12e20cf258e.jpg
+Ni 1.00
+newmtl pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 9c630acf1a8caf7951d07dcb0df474e24240f43f_00.jpg
+Ni 1.00
+newmtl pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl pasted__lambert7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-verde-del-tablero-de-la-tela-terciopelo-como-fondo-127127579.jpg
+Ni 1.00
+newmtl pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4e3f4e71d2ece7f91a2785c330f066c7.jpg
+Ni 1.00
+newmtl pasted__lambert8SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4e3f4e71d2ece7f91a2785c330f066c7.jpg
+Ni 1.00
+newmtl pasted__lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4e3f4e71d2ece7f91a2785c330f066c7.jpg
+Ni 1.00
+newmtl pasted__lambert8SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 08f0c5f065ce9a2a570ac12e20cf258e.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta-metalica-ojo-buey-submarino_1441-4227.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert6SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert6SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert6SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marco.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pineapple10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pineapple12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pineapple14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pasted__pineapple20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__pineapple16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pineapple
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pineapple2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pineapple4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pineapple
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pineapple2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pineapple4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pineapple.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__typeBlinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn1SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn2SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn3SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn3SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl pasted__typeBlinn4SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
